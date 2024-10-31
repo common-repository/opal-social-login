@@ -1,0 +1,60 @@
+.wc-social-login {
+  margin-bottom: 15px;
+}
+.wc-social-login .wsl-social {
+  margin-right: 5px;
+  display: inline-block;
+  border: 0;
+  box-shadow: none;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.wc-social-login .wsl-social img {
+  position: absolute;
+  width: 24px;
+  height: auto;
+  left: 50%; 
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+}
+.wc-social-login .wsl-label {
+  margin: 0 5px 0 0;
+}
+.wc-social-login .wsl-social-below {
+  width: 100%;
+  max-width: 300px;
+  color: #fff;
+  display: flex;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  vertical-align: top;
+  text-decoration: none;
+  opacity: 1;
+} 
+.wc-social-login .wsl-social-below:hover {
+  opacity: 0.9;
+}
+.wc-social-login .wsl-social-below .wsl-button-icon img {
+  height: 24px;
+  width: 24px;
+}
+.wc-social-login .wsl-social-below .wsl-button-icon {
+  padding: 7px 10px;
+  display: flex;
+}
+.wc-social-login .wsl-social-below  .wsl-button-label {
+  margin: 0 24px 0 12px;
+  padding: 10px 0;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: .25px;
+  overflow: hidden;
+  text-align: left;
+  text-overflow: clip;
+  white-space: nowrap;
+  flex: 1 1 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

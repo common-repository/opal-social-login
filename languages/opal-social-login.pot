@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Opal Social Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-30 10:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#. %s template
+#: includes/hook-functions.php:108
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-social-login.php:227
+msgid "Add your email address"
+msgstr ""
+
+#: includes/class-social-login.php:484
+msgid ""
+"Authentification failed. The user has canceled the authentication or the "
+"provider refused the connection."
+msgstr ""
+
+#: includes/admin/class-menu.php:219
+msgid "Below"
+msgstr ""
+
+#: includes/admin/class-menu.php:254
+msgid "Buttons Colors"
+msgstr ""
+
+#: includes/admin/class-menu.php:187
+msgid "Callback Url"
+msgstr ""
+
+#: templates/social-buttons-checkout.php:14
+msgid "Click here to login"
+msgstr ""
+
+#: includes/admin/class-menu.php:218
+msgid "Default"
+msgstr ""
+
+#: includes/admin/class-menu.php:206
+msgid "Description in checkout page"
+msgstr ""
+
+#: includes/admin/class-menu.php:74
+msgid "Enable Facebook Login"
+msgstr ""
+
+#: includes/admin/class-menu.php:145
+msgid "Enable Google Login"
+msgstr ""
+
+#: includes/admin/class-menu.php:110
+msgid "Enable Twitter Login"
+msgstr ""
+
+#: includes/options/socials.php:11
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin/class-menu.php:82
+msgid "Facebook App Id"
+msgstr ""
+
+#: includes/admin/class-menu.php:260
+msgid "Facebook Color"
+msgstr ""
+
+#: includes/admin/class-menu.php:67
+msgid "Facebook Connections"
+msgstr ""
+
+#: includes/admin/class-menu.php:95
+msgid "Facebook Icon"
+msgstr ""
+
+#: includes/admin/class-menu.php:88
+msgid "Facebook Secret"
+msgstr ""
+
+#: includes/admin/class-menu.php:181
+msgid "General settings"
+msgstr ""
+
+#: includes/options/socials.php:19
+msgid "Google"
+msgstr ""
+
+#: includes/admin/class-menu.php:274
+msgid "Google Color"
+msgstr ""
+
+#: includes/admin/class-menu.php:138
+msgid "Google Connections"
+msgstr ""
+
+#: includes/admin/class-menu.php:165
+msgid "Google Icon"
+msgstr ""
+
+#: includes/admin/class-menu.php:152
+msgid "Google Id"
+msgstr ""
+
+#: includes/admin/class-menu.php:158
+msgid "Google Secret"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.wpopal.com/"
+msgstr ""
+
+#: includes/class-social-login.php:472
+msgid "Hybriauth configuration error."
+msgstr ""
+
+#: includes/admin/class-menu.php:198
+msgid "Label"
+msgstr ""
+
+#: includes/admin/class-menu.php:215
+msgid "Login form button style"
+msgstr ""
+
+#: includes/class-social-login.php:481
+msgid "Missing provider application credentials."
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-menu.php:60
+msgid "Opal Social Login"
+msgstr ""
+
+#: includes/class-social-login.php:493
+msgid "Provider does not support this feature."
+msgstr ""
+
+#: includes/class-social-login.php:475
+msgid "Provider not properly configured."
+msgstr ""
+
+#: includes/admin/class-menu.php:240
+msgid "Registration Form"
+msgstr ""
+
+#: includes/class-social-login.php:487
+msgid ""
+"Request of user profile failed. Probably the user is not connected to the "
+"provider and a new authentication is necessary."
+msgstr ""
+
+#: includes/admin/metabox/class-extends.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/class-menu.php:174
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-menu.php:227
+msgid "Show login buttons in:"
+msgstr ""
+
+#: includes/admin/metabox/class-metabox.php:299
+msgid "There are no settings on these page."
+msgstr ""
+
+#: includes/class-social-login.php:239
+msgid "This email already exists"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin provides widget Portfolios for you."
+msgstr ""
+
+#: includes/options/socials.php:15
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin/class-menu.php:117
+msgid "Twitter App Id"
+msgstr ""
+
+#: includes/admin/class-menu.php:267
+msgid "Twitter Color"
+msgstr ""
+
+#: includes/admin/class-menu.php:103
+msgid "Twitter Connections"
+msgstr ""
+
+#: includes/admin/class-menu.php:130
+msgid "Twitter Icon"
+msgstr ""
+
+#: includes/admin/class-menu.php:123
+msgid "Twitter Secret"
+msgstr ""
+
+#: includes/class-social-login.php:478
+msgid "Unknown or disabled provider."
+msgstr ""
+
+#: includes/class-social-login.php:469
+msgid "Unspecified error."
+msgstr ""
+
+#: includes/admin/metabox/class-metabox.php:365
+msgid "Upload"
+msgstr ""
+
+#: includes/class-social-login.php:490
+msgid "User not connected to the provider."
+msgstr ""
+
+#: includes/class-social-login.php:245
+msgid "Username is not valid!"
+msgstr ""
+
+#: includes/admin/class-menu.php:247
+msgid "Woocommerce Login"
+msgstr ""
+
+#: includes/admin/class-menu.php:233
+msgid "WordPress Login"
+msgstr ""
+
+#: includes/class-social-login.php:233
+msgid "Your email address is not valid!"
+msgstr ""
